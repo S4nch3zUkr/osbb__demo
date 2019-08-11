@@ -189,5 +189,8 @@
         left: -15px;
     }
 }
-    
+@media (max-width: 550px) {
+    .page-item {
+        font-size: 75%;
+    }
 }
