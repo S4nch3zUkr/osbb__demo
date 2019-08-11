@@ -180,17 +180,17 @@
 }
 @media (max-width: 500px) {
     .headline_wrapper h1 {
-        font-size: 25px;
+        font-size: 20px;
     }
     .headline_wrapper h1:before {
-        width: 15px;
-        height: 15px;
-        top: -15px;
-        left: -15px;
+        width: 13px;
+        height: 13px;
+        top: -13px;
+        left: -13px;
     }
 }
 @media (max-width: 550px) {
     .page-item {
-        font-size: 75%;
+        font-size: 65%;
     }
 }
