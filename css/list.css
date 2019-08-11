@@ -161,3 +161,14 @@ table.brd td {
         font-size: 25px;
     }
 }
+
+@media (max-width: 440px) {
+    .ico {
+        font-size: 30px;
+    }
+}
+@media (max-width: 335px) {
+    .ico {
+        font-size: 20px;
+    }
+}

@@ -167,3 +167,14 @@
         padding-bottom: 5%;
     }
 }
+
+@media (max-width: 440px) {
+    .ico {
+        font-size: 30px;
+    }
+}
+@media (max-width: 335px) {
+    .ico {
+        font-size: 20px;
+    }
+}
