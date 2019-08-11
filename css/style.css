@@ -179,7 +179,15 @@
     }
 }
 @media (max-width: 500px) {
-    .headline {
+    .headline_wrapper h1 {
         font-size: 25px;
     }
+    .headline_wrapper h1:before {
+        width: 15px;
+        height: 15px;
+        top: -15px;
+        left: -15px;
+    }
+}
+    
 }
