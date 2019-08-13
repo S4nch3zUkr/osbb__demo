@@ -71,11 +71,7 @@
     }
 }
 
-@media (max-width: 440px) {
-    .ico {
-        font-size: 30px;
-    }
-}
+
 @media (max-width: 335px) {
     .ico {
         font-size: 20px;
@@ -85,5 +81,18 @@
     .main_content {
         margin: 10% 5% 5% 5%;
 
+    }
+}
+
+
+
+@media (max-width: 440px) {
+    .ico {
+        font-size: 20px;
+    }
+}
+@media (max-width: 335px) {
+    .ico {
+        font-size: 20px;
     }
 }
